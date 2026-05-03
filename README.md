@@ -1,6 +1,6 @@
 # Reachmetric Lite
 
-Reachmetric Lite is a free Google Analytics 4 (GA4) / OJS usage statistics plugin for Open Journal Systems (OJS 3.4+). It cleanly displays "Abstract Views" and "PDF Downloads" badges directly on your Issue TOC and Article Details pages, keeping your authors and readers informed about manuscript impact.
+Reachmetric Lite is a free OJS usage statistics plugin for Open Journal Systems (OJS 3.4+). It cleanly displays "Abstract Views" and "PDF Downloads" badges directly on your Issue TOC and Article Details pages, keeping your authors and readers informed about manuscript impact.
 
 ## Features
 - **Zero-Load Time:** Uses OJS's built-in metrics system for instant rendering.
