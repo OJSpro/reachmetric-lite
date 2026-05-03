@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Reachmetric Lite\n"
+"POT-Creation-Date: 2026-05-03\n"
+"PO-Revision-Date: 2026-05-03\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.generic.reachmetricLite.displayName"
+msgstr "Reachmetric Lite"
+
+msgid "plugins.generic.reachmetricLite.description"
+msgstr "Free, lightweight readership badges. Shows Abstract Views and PDF Downloads on issue and article pages using OJS data only. <a href=\"{$upgradeUrl}\" target=\"_blank\" rel=\"noopener noreferrer\">Upgrade to Reachmetric Pro</a> for more advanced Google Analytics 4 (GA4) metrics."
+
+msgid "plugins.generic.reachmetricLite.abstractViews"
+msgstr "Abstract Views"
+
+msgid "plugins.generic.reachmetricLite.pdfDownloads"
+msgstr "PDF Downloads"
+
+msgid "plugins.generic.reachmetricLite.settings.intro"
+msgstr "Configure how Reachmetric Lite displays Abstract Views and PDF Downloads on your issue and article pages."
+
+msgid "plugins.generic.reachmetricLite.settings.metrics.legend"
+msgstr "Metrics to display"
+
+msgid "plugins.generic.reachmetricLite.settings.showAbstractViews"
+msgstr "Show Abstract Views"
+
+msgid "plugins.generic.reachmetricLite.settings.showPdfDownloads"
+msgstr "Show PDF Downloads"
+
+msgid "plugins.generic.reachmetricLite.settings.colors.legend"
+msgstr "Badge appearance"
+
+msgid "plugins.generic.reachmetricLite.settings.colors.hint"
+msgstr "Use hex color values (e.g. #000000). Same colors apply to issue and article pages."
+
+msgid "plugins.generic.reachmetricLite.settings.badgeBg"
+msgstr "Background color"
+
+msgid "plugins.generic.reachmetricLite.settings.badgeColor"
+msgstr "Text color"
+
+msgid "plugins.generic.reachmetricLite.settings.badgeHoverBg"
+msgstr "Hover background color"
+
+msgid "plugins.generic.reachmetricLite.settings.badgeHoverColor"
+msgstr "Hover text color"
+
+msgid "plugins.generic.reachmetricLite.error.color"
+msgstr "Please enter a valid hex color (e.g. #000000)."
+
+msgid "plugins.generic.reachmetricLite.branding.line1"
+msgstr "Reachmetric Lite, built by"
+
+msgid "plugins.generic.reachmetricLite.branding.upgradeCta"
+msgstr "Want advanced analytics data? Upgrade to Reachmetric Pro"
